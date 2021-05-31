@@ -10,7 +10,7 @@ Javascript.
 
 ## Problem Statements :
 
-### Lab 7 :-
+### Lab 1 :-
 
 Write an algorithm to remove duplicate elements in a gen input array and print the total number of elements removed.
 
@@ -39,7 +39,7 @@ Target Element : 7
 o/p : 4
 ```
 
-#### Lab 17 :-
+#### Lab 3 :-
 
 Given an integer array arr, return `true` if there are three consecutive odd numbers in the array. Otherwise, return `false`.
 
